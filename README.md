@@ -1,6 +1,7 @@
-# super-octo-system
+# https://github.com/cs400-deppeler/super-octo-system
 
-1. Replace the repository name in the title above with the name of your team's GitHub repository for this exercise.
+1. Replace the user name (cs400-deppeler) and the repository name in the title line (first line of this file) above with the user name and repo name of your team's GitHub repository for this exercise.
+
 2. Answer these questions
    * What are the GitHub usernames of your team members?
        * GitHub username 1:
