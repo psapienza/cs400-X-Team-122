@@ -1,8 +1,8 @@
 # https://github.com/cs400-deppeler/super-octo-system
 
 1. Edit the title of this doucment
-  * Replace the user name (cs400-deppeler) with the user name of the team member who created shared repository
-  * Replace the repository name with the name of your team's GitHub repository for this exercise.
+   * Replace the user name (cs400-deppeler) with the user name of the team member who created shared repository
+   * Replace the repository name with the name of your team's GitHub repository for this exercise.
 
 2. Answer these questions
    * What are the GitHub usernames of your team members?
