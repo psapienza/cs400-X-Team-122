@@ -2,6 +2,8 @@
 
 <brief description of your team's opinion or philosophy regarding Style Guides>
 
+See https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#code for markdown tips
+
 ## Naming conventions
 
 <brief statement describing your team's naming conventions>
@@ -24,6 +26,13 @@
 ### Examples
 
 * classes
+
+```java
+public class ClassName {
+   // code example
+}
+```
+
 * fields
 * constructors
 * methods
