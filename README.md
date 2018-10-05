@@ -1,4 +1,5 @@
-<p align="center"><img src="image/UW-Madison-Logo.jpg" height="" width=""></p>
+<p align="center"><img src="images/UW-Madison-Logo.jpg" height="120" width="400"></p>
+
 <hr>
 
 # https://github.com/safipourafsh/cs400-X-Team-122
