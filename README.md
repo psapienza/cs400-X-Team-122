@@ -1,3 +1,6 @@
+<p align="center"><img src="image/badgers.png" height="" width=""></p>
+<hr>
+
 # https://github.com/safipourafsh/cs400-X-Team-122
 
 1. Edit the title of this doucment
