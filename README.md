@@ -13,7 +13,7 @@
    * What are the GitHub usernames of your team members?
        * GitHub username 1: __safipourafsh__
        * GitHub username 2: __chencynthia123__
-       * GitHub username 3:
+       * GitHub username 3: __psapienza__
        * GitHub username 4:
 
    * When did you complete this exercise? 
