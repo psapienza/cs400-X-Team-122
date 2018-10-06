@@ -1,6 +1,7 @@
+<!-- Embeded image and aligned it to the center-->
 <p align="center"><img src="images/UW-Madison-Logo.jpg" height="120" width="400"></p>
 
-<hr>
+<!--line--><hr>
 
 # https://github.com/safipourafsh/cs400-X-Team-122
 
